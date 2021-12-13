@@ -1,1 +1,1 @@
-# sunny-social-network-be
+# Sunny Social Network Backend
